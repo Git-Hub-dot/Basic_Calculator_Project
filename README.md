@@ -46,6 +46,7 @@ This project features modern design principles with glassmorphism-inspired UI, s
 ***
 
 ## 📸 <u>**Screenshots:**</u>
+Will be uploaded soon.......
 ***
 
 ## 🙌 Author
