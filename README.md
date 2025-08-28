@@ -1,6 +1,6 @@
 ## 🧮 <u>**Basic Calculator Web App**</u>
 
-A sleek, responsive, and production-ready calculator built using HTML, CSS, and JavaScript.
+A sleek, responsive, and production-ready calculator built by **SAROJ DHITAL** using HTML, CSS, and JavaScript.
 This project features modern design principles with glassmorphism-inspired UI, smooth animations, and full support for basic arithmetic operations.
 ***
 
@@ -26,8 +26,9 @@ Logic: JavaScript (modular, clean, and well-commented)
 ✅ Responsive design for both desktop and mobile
 
 ✅ Smooth animations and hover effects
+***
 
-🚀 How It Works
+## 🚀 <u>**How It Works:**</u>
 
 User opens the calculator in browser.
 
@@ -36,18 +37,17 @@ Inputs numbers and operations directly in the display area.
 Calculator processes expressions step-by-step.
 
 Result is shown dynamically in the same display section.
-
+***
 Special handling for:
 
 Multiple decimals ❌ (blocked)
 
 Divide by zero ➝ shows Error.
+***
 
-📸 Screenshots
+## 📸 <u>**Screenshots:**</u>
 
-(Add screenshots or GIFs of the calculator here for better presentation)
+## 👨‍💻 <u>**Author**</u>
 
-👨‍💻 Author
-
-Saroj Dhital
+**Saroj Dhital**
 Computer Science Student & Web Enthusiast
