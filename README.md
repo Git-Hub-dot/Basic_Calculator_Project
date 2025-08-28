@@ -1,15 +1,17 @@
-## 🧮 **Basic Calculator Web App**
+## 🧮 <u>**Basic Calculator Web App**</u>
 
 A sleek, responsive, and production-ready calculator built using HTML, CSS, and JavaScript.
 This project features modern design principles with glassmorphism-inspired UI, smooth animations, and full support for basic arithmetic operations.
+***
 
-🛠️ Technologies Used
+## 🛠️ <u>**Technologies Used:**</u>
 
 Frontend: HTML, CSS (Grid & Flexbox for layout, Glassmorphism/Neumorphism styling)
 
 Logic: JavaScript (modular, clean, and well-commented)
+***
 
-🔑 Features
+## 🔑 <u>**Features:**</u>
 
 ✅ Perform all basic arithmetic operations (+, −, ×, ÷)
 
