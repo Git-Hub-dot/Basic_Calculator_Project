@@ -30,14 +30,14 @@ This project features modern design principles with glassmorphism-inspired UI, s
 
 ## 🚀 <u>**How It Works:**</u>
 
-◆User opens the calculator in browser.
+◆ User opens the calculator in browser.
 
-◆Inputs numbers and operations directly in the display area.
+◆ Inputs numbers and operations directly in the display area.
 
-◆Calculator processes expressions step-by-step.
+◆ Calculator processes expressions step-by-step.
 
-◆Result is shown dynamically in the same display section.
-***
+◆ Result is shown dynamically in the same display section.
+
 🟧 **Special handling for:**
 
      ➡️Multiple decimals ❌ (blocked)
