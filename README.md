@@ -46,8 +46,17 @@ Divide by zero ➝ shows Error.
 ***
 
 ## 📸 <u>**Screenshots:**</u>
+***
 
-## 👨‍💻 <u>**Author**</u>
+## 🙌 Author
 
 **Saroj Dhital**
-Computer Science Student & Web Enthusiast
+*Computer Science Student & Web Enthusiast*
+***
+## 🌟 Show Your Support
+
+If you liked the project:
+
+* ⭐️ Star this repo
+* 🗣 Share with your friends!
+***
