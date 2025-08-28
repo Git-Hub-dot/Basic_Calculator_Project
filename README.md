@@ -6,9 +6,9 @@ This project features modern design principles with glassmorphism-inspired UI, s
 
 ## 🛠️ <u>**Technologies Used:**</u>
 
-Frontend: HTML, CSS (Grid & Flexbox for layout, Glassmorphism/Neumorphism styling)
+🟩Frontend: HTML, CSS (Grid & Flexbox for layout, Glassmorphism/Neumorphism styling)
 
-Logic: JavaScript (modular, clean, and well-commented)
+🟩Logic: JavaScript (modular, clean, and well-commented)
 ***
 
 ## 🔑 <u>**Features:**</u>
