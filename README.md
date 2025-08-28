@@ -6,9 +6,9 @@ This project features modern design principles with glassmorphism-inspired UI, s
 
 ## 🛠️ <u>**Technologies Used:**</u>
 
-🟩**Frontend**: HTML, CSS (Grid & Flexbox for layout, Glassmorphism Styling)
+🟩 **Frontend**: HTML, CSS (Grid & Flexbox for layout, Glassmorphism Styling)
 
-🟩**Logic**: JavaScript (modular, clean, and well-commented)
+🟩 **Logic**: JavaScript (modular, clean, and well-commented)
 ***
 
 ## 🔑 <u>**Features:**</u>
@@ -40,9 +40,9 @@ This project features modern design principles with glassmorphism-inspired UI, s
 
 🟧 **Special handling for:**
 
-     ➡️Multiple decimals ❌ (blocked)
+     ➡️ Multiple decimals ❌ (blocked)
 
-     ➡️Divide by zero ➝ shows Error.
+     ➡️ Divide by zero ➝ shows Error.
 ***
 
 ## 📸 <u>**Screenshots:**</u>
