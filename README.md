@@ -6,9 +6,9 @@ This project features modern design principles with glassmorphism-inspired UI, s
 
 ## 🛠️ <u>**Technologies Used:**</u>
 
-🟩Frontend: HTML, CSS (Grid & Flexbox for layout, Glassmorphism/Neumorphism styling)
+🟩**Frontend**: HTML, CSS (Grid & Flexbox for layout, Glassmorphism/Neumorphism styling)
 
-🟩Logic: JavaScript (modular, clean, and well-commented)
+🟩**Logic**: JavaScript (modular, clean, and well-commented)
 ***
 
 ## 🔑 <u>**Features:**</u>
@@ -30,19 +30,19 @@ This project features modern design principles with glassmorphism-inspired UI, s
 
 ## 🚀 <u>**How It Works:**</u>
 
-User opens the calculator in browser.
+◆User opens the calculator in browser.
 
-Inputs numbers and operations directly in the display area.
+◆Inputs numbers and operations directly in the display area.
 
-Calculator processes expressions step-by-step.
+◆Calculator processes expressions step-by-step.
 
-Result is shown dynamically in the same display section.
+◆Result is shown dynamically in the same display section.
 ***
-Special handling for:
+🟧 **Special handling for:**
 
-Multiple decimals ❌ (blocked)
+     ➡️Multiple decimals ❌ (blocked)
 
-Divide by zero ➝ shows Error.
+     ➡️Divide by zero ➝ shows Error.
 ***
 
 ## 📸 <u>**Screenshots:**</u>
