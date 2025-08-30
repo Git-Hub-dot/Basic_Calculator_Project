@@ -46,7 +46,7 @@ This project features modern design principles with glassmorphism-inspired UI, s
 ***
 
 ## 📸 <u>**Screenshots:**</u>
-![alt text]()
+![alt text](https://github.com/Git-Hub-dot/Basic_Calculator_Project/blob/6bebc19fbc09e8fdd94790f40b0cd5d0bf220747/My%20Calculator.png)
 
 ***
 
